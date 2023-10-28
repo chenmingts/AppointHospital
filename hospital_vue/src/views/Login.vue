@@ -70,7 +70,7 @@ export default {
               that.$router.push("/");
             }else{
               that.errorMsg = res.data.msg;
-              that.$message.error(res.data.msg);
+              //that.$message.error(res.data.msg);
             }
         })
         

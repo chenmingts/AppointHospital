@@ -35,7 +35,7 @@
                   </el-form-item>
                   <el-form-item>
                       <el-button type="primary" @click="register">Register</el-button>
-                      <el-button @click="login">登录</el-button>
+                      <el-button @click="login"> Login </el-button>
                   </el-form-item>
                 </el-form>
               </el-card>
@@ -81,7 +81,7 @@ export default {
               that.$router.push("/login");
             }else{
               that.errorMsg = r.data.msg;
-              that.$message.error(r.data.msg);
+              //that.$message.error(r.data.msg);
             }
         })
       }

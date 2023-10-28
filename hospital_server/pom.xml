@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wfuhui</groupId>
-    <artifactId>hospital-server</artifactId>
+    <artifactId>hospital_server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>hospital-server</name>
+    <name>hospital_server</name>
     <description>Hospital project for Spring Boot</description>
 
     <properties>
