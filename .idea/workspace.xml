@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4936813-8579-429c-8e20-da82f4d51ec8" name="Changes" comment="EnviromentSetup">
-      <change afterPath="$PROJECT_DIR$/hospital_vue/src/index.html" afterDir="false" />
+    <list default="true" id="f4936813-8579-429c-8e20-da82f4d51ec8" name="Changes" comment="EnviromentSetup,npm">
+      <change afterPath="$PROJECT_DIR$/hospital_vue/src/views/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hospital_vue/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hospital_vue/src/views/Register.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,12 +29,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XMsRQ6OiQUVJSBkZ04WyxfataV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -41,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "spring.configuration.checksum": "a6400424d83371aa0d0f7c3efb749084"
   }
 }]]></component>
@@ -61,7 +69,7 @@
       <workItem from="1698450276118" duration="996000" />
       <workItem from="1698451278901" duration="431000" />
       <workItem from="1698451717733" duration="88000" />
-      <workItem from="1698451810637" duration="163000" />
+      <workItem from="1698451810637" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="EnviromentSetup">
       <created>1698451210173</created>
@@ -84,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698451817537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="EnviromentSetup">
+      <created>1698451994852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698451994852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="EnviromentSetup,npm">
+      <created>1698452234170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698452234170</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +124,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="EnviromentSetup" />
-    <option name="LAST_COMMIT_MESSAGE" value="EnviromentSetup" />
+    <MESSAGE value="EnviromentSetup,npm" />
+    <option name="LAST_COMMIT_MESSAGE" value="EnviromentSetup,npm" />
   </component>
 </project>
